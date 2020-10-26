@@ -1,0 +1,25 @@
+{
+  "name": "hyprlink",
+  "version": "1.0.0",
+  "description": "Hyperlink recognizer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/finngreiter/hyprlink.git"
+  },
+  "keywords": [
+    "hyperlink",
+    "link",
+    "recognize"
+  ],
+  "author": "Finn Greiter",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/finngreiter/hyprlink/issues"
+  },
+  "homepage": "https://github.com/finngreiter/hyprlink#readme",
+  "dependencies": {}
+}
