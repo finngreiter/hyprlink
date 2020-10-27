@@ -1,5 +1,5 @@
 const linkRegex = /(https?:\/\/[^\s]+)/g;
 
-module.exports = (string) => {
-  return string.split(linkRegex);
+module.exports = (string, regex = linkRegex) => {
+  return string.split(regex);
 };
